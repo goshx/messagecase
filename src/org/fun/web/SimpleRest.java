@@ -1,4 +1,4 @@
-package org.fun;
+package org.fun.web;
 
 import com.hazelcast.util.function.Consumer;
 import io.vertx.core.AbstractVerticle;
