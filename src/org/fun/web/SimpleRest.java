@@ -1,10 +1,6 @@
 package org.fun.web;
 
-import com.hazelcast.util.function.Consumer;
 import io.vertx.core.AbstractVerticle;
-import io.vertx.core.DeploymentOptions;
-import io.vertx.core.Vertx;
-import io.vertx.core.VertxOptions;
 import io.vertx.core.http.HttpServerResponse;
 import io.vertx.core.json.JsonArray;
 import io.vertx.core.json.JsonObject;
@@ -18,22 +14,7 @@ import java.util.Map;
 public class SimpleRest extends AbstractVerticle {
 
     public static void main(String[] args) {
-        init();
-    }
-
-    private static void init() {
-        VertxOptions vertxOptions = new VertxOptions();
-        DeploymentOptions deploymentOptions = new DeploymentOptions();
-        String verticleID = SimpleRest.class.getName();
-        Consumer<Vertx> runner = vertx -> {
-            try {
-                vertx.deployVerticle(verticleID, deploymentOptions);
-            } catch (Throwable t) {
-                t.printStackTrace();
-            }
-        };
-        Vertx vertx = Vertx.vertx(vertxOptions);
-        runner.accept(vertx);
+        Runer.run(SimpleRest.class);
     }
 
     @Override
