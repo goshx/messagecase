@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/test/KafkaProducerTest.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/GeoHashCircleQuery.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/storage/PhoenixDriver.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/BoundingBox.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/GeoHash.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/BoundingBoxGeoHashIterator.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/handler/TcpEventBusBridge.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/agent/MainEntry.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/WGS84Point.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/RandomSessionID.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/LongUtil.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/message/BaseResponse.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/conf/Config.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/message/TcpRequest.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/test/TcpRequestHeaderParserTest.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/storage/BaseDriver.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/GeoHashQuery.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/handler/RouteHandler.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/message/ErrorResponse.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/agent/StorageServer.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/GeoHashBoundingBoxQuery.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/handler/TcpFrameParser.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/TwoGeoHashBoundingBox.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/message/FrequencyStatus.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/test/KafkaConsumerTest.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/BoundingBoxSampler.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/agent/ManageServer.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/VincentyGeodesy.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/agent/SessionCollection.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/handler/TcpFrameHelper.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/message/AssignPermissionResponse.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/util/GeoHashSizeTable.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/test/PhoenixDriverTest.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/storage/PostgisDriver.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/agent/StreamServer.java</file>
+            <file>file:/C:/Users/Junia/Documents/NetBeansProjects/DMessage/src/org/lmars/dm/main/handler/TcpEventBusBridgeImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
